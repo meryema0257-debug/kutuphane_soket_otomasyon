@@ -1,0 +1,1 @@
+# kutuphane_soket_otomasyon
